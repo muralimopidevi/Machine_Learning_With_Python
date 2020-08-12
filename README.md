@@ -4,7 +4,7 @@
 
 Professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms,
 and coding libraries in a simple way.
-![Project Preview](https://github.com/mopidevimu/MovieRating/blob/master/git-images/ezgif.com-gif-maker.gif)
+![Project Preview](https://github.com/mopidevimu/Machine_Learning_With_Python/blob/master/git_images/machine_learning_746x419.jpg)
 
 ## We dive deep into Machine Learning. It is structured the following way :-
 
