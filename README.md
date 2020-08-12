@@ -1,6 +1,10 @@
+![PyPI - Python Version](https://img.shields.io/badge/Python-3.7-brightgreen)
+
 # Machine Learning With Python
 
-Professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms, and coding libraries in a simple way.
+Professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms,
+and coding libraries in a simple way.
+![Project Preview](https://github.com/mopidevimu/MovieRating/blob/master/git-images/ezgif.com-gif-maker.gif)
 
 ## We dive deep into Machine Learning. It is structured the following way :-
 
