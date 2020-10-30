@@ -1,4 +1,4 @@
-# Upper Confidence Bound
+# Upper Confidence Bound (UCB)
 
 # Importing the libraries
 import numpy as np
